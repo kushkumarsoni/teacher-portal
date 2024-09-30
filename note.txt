@@ -1,0 +1,8 @@
+Clone repository 
+create a database teacher_portal
+import the sql file given into GitHub
+
+
+Teacher Login 
+username : teacher@gmail.com
+password:12345678
